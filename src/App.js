@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <div id="some_div" style={{background: 'red', color: 'white'}}>
+          Some Div
+        </div>
       </header>
     </div>
   );
