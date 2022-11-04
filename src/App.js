@@ -15,9 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!!!!
+          Learn React and something else!!!!
         </a>
-        <div id="some_div" style={{background: 'blue', color: 'white'}}>
+        <div id="some_div" style={{background: 'red', color: 'white'}}>
           Some Div
         </div>
       </header>
