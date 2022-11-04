@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_document_0_phone.png",
-        "test": "../bitmaps_test/20221103-201318/backstop_default_BackstopJS_Homepage_0_document_0_phone.png",
+        "test": "../bitmaps_test/20221103-201407/backstop_default_BackstopJS_Homepage_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_BackstopJS_Homepage_0_document_0_phone.png",
         "label": "BackstopJS Homepage",
@@ -20,18 +20,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.4772135416666667,
-          "misMatchPercentage": "0.48",
-          "analysisTime": 14
-        },
-        "diffImage": "../bitmaps_test/20221103-201318/failed_diff_backstop_default_BackstopJS_Homepage_0_document_0_phone.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_document_1_desktop.png",
-        "test": "../bitmaps_test/20221103-201318/backstop_default_BackstopJS_Homepage_0_document_1_desktop.png",
+        "test": "../bitmaps_test/20221103-201407/backstop_default_BackstopJS_Homepage_0_document_1_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_BackstopJS_Homepage_0_document_1_desktop.png",
         "label": "BackstopJS Homepage",
@@ -47,18 +44,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.20802815755208334,
-          "misMatchPercentage": "0.21",
-          "analysisTime": 22
-        },
-        "diffImage": "../bitmaps_test/20221103-201318/failed_diff_backstop_default_BackstopJS_Homepage_0_document_1_desktop.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_some_div_0_phone.png",
-        "test": "../bitmaps_test/20221103-201318/backstop_default_BackstopJS_Homepage_0_some_div_0_phone.png",
+        "test": "../bitmaps_test/20221103-201407/backstop_default_BackstopJS_Homepage_0_some_div_0_phone.png",
         "selector": "#some_div",
         "fileName": "backstop_default_BackstopJS_Homepage_0_some_div_0_phone.png",
         "label": "BackstopJS Homepage",
@@ -82,7 +76,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0_some_div_1_desktop.png",
-        "test": "../bitmaps_test/20221103-201318/backstop_default_BackstopJS_Homepage_0_some_div_1_desktop.png",
+        "test": "../bitmaps_test/20221103-201407/backstop_default_BackstopJS_Homepage_0_some_div_1_desktop.png",
         "selector": "#some_div",
         "fileName": "backstop_default_BackstopJS_Homepage_0_some_div_1_desktop.png",
         "label": "BackstopJS Homepage",
